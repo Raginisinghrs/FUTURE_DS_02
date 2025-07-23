@@ -1,6 +1,9 @@
 # FUTURE_DS_02
 📊 Power BI Dashboard to analyze Facebook ad performance, engagement, CTR, ROI, and campaign insights.
 
+Task 2 – Social Media Campaign Performance Tracker
+📊 Data Science & Analytics Internship – Future Interns
+
 # 📊 Facebook Ads Performance Dashboard
 
 This project is a Power BI dashboard that analyzes the performance of Facebook ad campaigns. It provides key insights into ad impressions, clicks, reach, conversions, CTR (Click-Through Rate), ROI, and audience behavior.
