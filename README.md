@@ -37,8 +37,3 @@ As part of a data analytics internship, this project helped me explore ad campai
 
 ---
 
-## 📎 How to Use
-
-1. Download the `.pbix` file.
-2. Open it using Power BI Desktop.
-3. Explore the interactive visuals and filters to analyze campaign performance.
