@@ -37,3 +37,6 @@ As part of a data analytics internship, this project helped me explore ad campai
 
 ---
 
+Note: The Power BI (.pbix) file is available on request.
+Currently sharing the visual summary (screenshot) as part of my internship task.
+
